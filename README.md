@@ -9,7 +9,12 @@ Some methodologies used:
 - Pair Programming.
 - Scrum and Agile.
 
+## Some links:
+### [Unity Project](https://gitlab.com/Kazte/quark-proyecto-integrador)
+### [Core API](https://gitlab.com/Kazte/topictwister_api)
+### [User API](https://gitlab.com/Kazte/topictwister_api_users)
 
+## More Info
 For a more detailed explanation and to see the results, please follow the link to the presentation video:
 
 
